@@ -32,3 +32,17 @@ Purpose:-
 
 This project was created as part of a learning exercise in web development. It demonstrates an understanding of HTML and CSS while sharing meaningful information about India.
 
+About me:-
+
+My  name is Abhijot Singh. I am a 14 years old. I completed my middle school studies in India and later moved to the United States, where i began my education from 9th grade. I am currntly studing in 9th grade.
+
+My achivements:-
+
+🥇Awarded a certifiacte for good behaviour and leadership qualities in middle school.
+🥈Received a certificate and trophy for ranking 2nd in my class in 6th grade.
+🥇Received a certificate and trophy for ranking 1st in my class in both 7th and 8th grade.
+
+Contact info:-
+
+Email:- sabhijot060@gmail.com
+Phone number:- +1 (408) 650-4916   (Prefer messages more rather than phone call.)
