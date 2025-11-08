@@ -45,4 +45,3 @@ My achivements:-
 Contact info:-
 
 Email:- sabhijot060@gmail.com
-Phone number:- +1 (408) 650-4916   (Prefer messages more rather than phone call.)
